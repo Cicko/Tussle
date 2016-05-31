@@ -1,0 +1,25 @@
+{
+  "name": "tussle",
+  "version": "1.0.0",
+  "description": "Tussle is at physics based fight game",
+  "main": "index.js",
+  "scripts": {
+    "test": "tussle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cicko/Tussle.git"
+  },
+  "keywords": [
+    "multiplayer",
+    "fight",
+    "physics",
+    "ragdoll"
+  ],
+  "author": "Rudolf Cicko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cicko/Tussle/issues"
+  },
+  "homepage": "https://github.com/Cicko/Tussle#readme"
+}
